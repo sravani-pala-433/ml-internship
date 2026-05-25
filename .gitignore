@@ -1,0 +1,29 @@
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# PyCharm
+.idea/
+
+*.ipynb_checkpoints
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Model files
+*.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
+
+trained_models/
+house_price_prediction_model.pkl
+house_price_features.json
