@@ -3,7 +3,7 @@ from pydantic import BaseModel, Field
 
 from machine_learning_intership.app.ml.house_price_model import predict_price
 
-router = APIRouter()
+router = APIRouter(tags=["House Price Prediction"], prefix="/house-price")
 
 
 class HousePriceRequest(BaseModel):
