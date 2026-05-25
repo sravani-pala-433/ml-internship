@@ -1,6 +1,5 @@
-# Machine Learning Internship
 
-# ML Internship Projects — INCODEVision
+# ML Internship Projects — IncodeVision
 
 A collection of Machine Learning projects completed as part of my ML Internship at INCODEVision, built using Python and FastAPI.
 
@@ -29,18 +28,19 @@ A collection of Machine Learning projects completed as part of my ML Internship 
 - PyCharm
 
 ## Project Structure
+```
 ml-internship/
 ├── app/
-│   ├── routes/         # FastAPI route handlers
-│   ├── ml/             # Model loading and prediction logic
+│   ├── routes/         
+│   ├── ml/             
 │   └── utils/
-├── datasets/           # Raw datasets
-├── notebooks/          # Training notebooks
-├── trained_models/     # Saved .pkl models (not tracked in Git)
+├── datasets/           
+├── notebooks/          
+├── trained_models/     
 ├── main.py
 ├── requirements.txt
 └── README.md
-
+```
 ## Setup
 pip install -r requirements.txt
 
