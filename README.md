@@ -15,9 +15,6 @@ A collection of Machine Learning projects completed as part of my ML Internship 
 - Classifies emails as spam or not spam using NLP
 - Endpoint: `POST /predict/spam`
 
-### Task 04 — Customer Churn Prediction (In Progress)
-- Predicts customer churn using classification models
-- Endpoint: `POST /predict/churn`
 
 ## Tech Stack
 - Python
