@@ -11,7 +11,7 @@ A collection of Machine Learning projects completed as part of my ML Internship 
 - Model Metrics: R² = 0.65, RMSE = ₹65 Lakhs
 - Endpoint: `POST /predict/house-price`
 
-### Task 03 — Spam Email Classifier (In Progress)
+### Task 03 — Spam Email Classifier
 - Classifies emails as spam or not spam using NLP
 - Endpoint: `POST /predict/spam`
 
